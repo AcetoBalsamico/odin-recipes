@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(255, 85, 0);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.previmg,
+.mainimg {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.cathandle {
+    font-family: Lucida Handwriting;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+.header {
+    font-family: Lucida Handwriting;
+    font-size: 34;
+    text-align: center;
+    color:rgb(32, 4, 4)
+}
+
+h2 {
+    font-size: 22;
+}
+
+h3 {
+    font-size: 22;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.mainlist {
+    align-self: center;
+}
